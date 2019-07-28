@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=accounttype
+comment1.params=
+comment1.target=void\ createframe()
+comment2.params=
+comment2.target=void\ label()
+comment3.params=
+comment3.target=void\ textfield()
+comment4.params=
+comment4.target=void\ button()
+comment5.params=
+comment5.target=void\ panel()
+comment6.params=a
+comment6.target=void\ visible(boolean)
+comment7.params=
+comment7.target=void\ main()
+comment8.params=e
+comment8.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=9

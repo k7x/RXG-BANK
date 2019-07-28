@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=creating_account
+comment1.params=fl_nam\ pas
+comment1.target=creating_account(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ label()
+comment3.params=
+comment3.target=void\ textfield()
+comment4.params=
+comment4.target=void\ button()
+comment5.params=
+comment5.target=void\ createframe()
+comment6.params=
+comment6.target=void\ panel()
+comment7.params=a
+comment7.target=void\ visible(boolean)
+comment8.params=f\ p
+comment8.target=void\ main(java.lang.String,\ java.lang.String)
+comment9.params=e
+comment9.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=10

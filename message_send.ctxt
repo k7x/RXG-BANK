@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ create_f()
+comment1.params=
+comment1.target=void\ label()
+comment2.params=
+comment2.target=void\ button()
+comment3.params=a\ b
+comment3.target=void\ main(java.lang.String,\ java.lang.String)
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=5
